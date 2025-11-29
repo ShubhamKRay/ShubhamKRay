@@ -164,7 +164,32 @@
 
 ## 📊 GitHub Statistics
 
+
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ShubhamKRay&theme=algolia&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKRay&layout=compact&theme=algolia&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShubhamKRay&theme=algolia&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKRay&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ffffff&area=true&hide_border=false&theme=github-dark" width="100%" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKRay&theme=radical&hide_border=true" />
 </p>
@@ -206,7 +231,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+<br> -->
 
 ## 🐍 Contribution Snake
 
