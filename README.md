@@ -167,16 +167,19 @@
 
  <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKRay&theme=radical&hide_border=true" />
+   
+ <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKRay&theme=radical&hide_border=true" />   -->
 </p>
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKRay&layout=compact&theme=radical&hide_border=true&langs_count=10" />
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ShubhamKRay&theme=radical&hide_border=true&combine_all_yearly_contributions=true" />
 </p>
-<!-- <p align="center">
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKRay&theme=react-dark&hide_border=true&area=true" />
-</p> -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 
 <br> 
