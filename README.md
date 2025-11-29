@@ -275,7 +275,7 @@
 
 <br>
 
-```mermaid
+`````mermaid
 graph LR
     A[✅ Core Java] --> B[✅ Spring Boot]
     B --> C[🔄 React & Frontend]
@@ -285,11 +285,11 @@ graph LR
     
     style A fill:#10AF05
     style B fill:#20BF05
-    style C fill:#CFA505
-    style D fill:#DFA505
-    style E fill:#EF0005
-    style F fill:#FF0005
-```
+    style C fill:#30FA505
+    style D fill:#40FA505
+    style E fill:#50F0005
+    style F fill:#60F0005
+`````
 
 <br>
 
