@@ -309,7 +309,8 @@ graph LR
 
 <div align="center">
 
-<a href="https://leetcode.com/[Shubham-kumar-ray]" target="_blank">
+<!-- <a href="https://leetcode.com/u/Shubham-kumar-ray/000000https://leetcode.com/[Shubham-kumar-ray]" target="_blank"> -->
+<a href="https://leetcode.com/u/Shubham-kumar-ray" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
 </a>
 <a href="https://www.hackerrank.com/ShubhamRayy" target="_blank">
@@ -352,8 +353,8 @@ graph LR
 </a>
 <a href="https://yourportfolio.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-</a> -->
-<!-- <a href="https://www.instagram.com/your-handle" target="_blank">
+</a>
+<a href="https://www.instagram.com/your-handle" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
 </a>
 
