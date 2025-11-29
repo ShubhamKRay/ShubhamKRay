@@ -2,7 +2,7 @@
   
 # 💫 Hi, I'm Shubham Kumar Ray
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+Microservices;Building+Scalable+Applications+%F0%9F%92%BB;Problem+Solver+%7C+Code+Enthusiast;Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+Microservices;Building+Scalable+Applications+%F0%9F%92%BB;Problem+Solver+%7C+Code+Enthusiast;Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
 
 </div>
 
@@ -62,8 +62,8 @@
 ### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -71,23 +71,28 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=microservices&logoColor=white)
 
-### 🎨 Frontend & Libraries
+### 🎨 Frontend Technologies
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-5A29E4?style=for-the-badge&logo=ajax&logoColor=white)
 
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🛠️ Tools & IDEs
 
@@ -97,7 +102,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 </div>
 
@@ -163,14 +168,14 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKRay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKRay&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 <br>
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKRay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ShubhamKRay&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKRay&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ShubhamKRay&limit=5&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Contribution Stats" />
 
 </div>
 
@@ -180,7 +185,25 @@
   
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKRay&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKRay&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -194,7 +217,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShubhamKRay&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ShubhamKRay&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -241,12 +264,12 @@
 
 ### 📖 Current Learning Track
 
-```mermaid
-graph LR
-    A[Core Java] --> B[Spring Boot]
-    B --> C[Microservices]
-    C --> D[System Design]
-    D --> E[Cloud & DevOps]
+```
+✅ Core Java → Spring Boot
+🔄 React → Frontend Mastery
+🔄 Microservices → System Design
+📝 Docker → Kubernetes
+📝 AWS → Cloud Deployment
 ```
 
 **Focus Areas:** Clean Code | Design Patterns | RESTful APIs | Database Optimization | React Integration
@@ -317,7 +340,7 @@ graph LR
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote" />
 
 </div>
 
@@ -351,7 +374,7 @@ graph LR
 
 ## 🙏 Thanks for Visiting!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time!+%F0%9F%9A%80;Open+to+collaborations+%26+opportunities!+%F0%9F%A4%9D;Let's+connect+and+create+something+amazing!+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time!+%F0%9F%9A%80;Open+to+collaborations+%26+opportunities!+%F0%9F%A4%9D;Let's+connect+and+create+something+amazing!+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br>
 <br>
