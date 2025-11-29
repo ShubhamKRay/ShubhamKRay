@@ -283,12 +283,12 @@ graph LR
     D --> E[📝 System Design]
     E --> F[📝 AWS & Cloud]
     
-    style A fill:#00AF01
-    style B fill:#00BF01
-    style C fill:#CFA500
-    style D fill:#DFA500
-    style E fill:#EF0000
-    style F fill:#FF0000
+    style A fill:#10AF05
+    style B fill:#20BF05
+    style C fill:#CFA505
+    style D fill:#DFA505
+    style E fill:#EF0005
+    style F fill:#FF0005
 ```
 
 <br>
