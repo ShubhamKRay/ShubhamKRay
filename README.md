@@ -285,10 +285,10 @@ graph LR
     
     style A fill:#FFAF05
     style B fill:#FFBF05
-    style C fill:#FFA505
-    style D fill:#FFA505
-    style E fill:#FF0005
-    style F fill:#FF0005
+    style C fill:#FFAE05
+    style D fill:#FFAG05
+    style E fill:#FF0C05
+    style F fill:#FF0P05
 ```
 
 <br>
