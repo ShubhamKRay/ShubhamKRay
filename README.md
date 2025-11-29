@@ -1,72 +1,56 @@
-<!-- MINIMAL ULTRA-CLEAN THEME -->
-# Hi, I'm Shubham 👋
-
-**Java Full-Stack Developer**  
-Focused on building maintainable backend services and clean frontend interfaces.
+<!-- DEVELOPER PORTFOLIO PRO THEME -->
+<h1 align="center">Shubham Kumar Ray</h1>
+<p align="center"><strong>Java Full-Stack Developer</strong> • Backend & API Enthusiast • Building production-ready apps</p>
 
 ---
 
-## About
-- 🔭 Working on: **Voting Survey System**  
-- 🌱 Learning: Spring Boot, React, System Design  
+## About Me
+I design and implement backend systems using Java and Spring Boot and enjoy crafting frontend experiences with React. I focus on code readability, strong testing, and scalable architecture.
+
+- 🔭 Current: Voting Survey System  
+- 🌱 Learning: System Design, Microservices  
 - 📫 Email: your-email@example.com  
 - 🔗 LinkedIn: YOUR_LINKEDIN_URL
 
 ---
 
-## Skills
-- **Languages:** Java, JavaScript  
-- **Backend:** Spring Boot, JPA, REST APIs  
-- **Frontend:** HTML, CSS, React (learning)  
-- **Database:** MySQL, PostgreSQL  
-- **Tools:** Git, Postman, Maven
+## Selected Work (Portfolio)
+### Voting Survey System — Full stack
+**Role:** Lead Developer  
+**Tech:** Spring Boot, MySQL, React  
+**Features:** Poll creation, voting, results dashboard, admin controls, RESTful APIs, DTOs, layered architecture.
+
+**Repository:** `github.com/ShubhamKRay/VotingSurvey` (link in profile)
 
 ---
 
-## Projects
-**Voting Survey System** — Full-stack survey app (CRUD polls, voting, results). Clean architecture and RESTful APIs.
+## Architecture (summary)
+- Controllers handle HTTP & validation  
+- Services contain business logic  
+- Repositories interact with DB using JPA  
+- DTOs for request/response separation  
+- Considerations for transactions, error handling & logging
 
 ---
 
-## Quick Start (local)
-```bash
-# backend
-cd backend
-mvn spring-boot:run
-
-# frontend (if React)
-cd frontend
-npm install
-npm start
+## Skills & Tools
+- Java, Spring Boot, REST APIs, JPA/Hibernate  
+- React, HTML, CSS, JavaScript  
+- MySQL, PostgreSQL, Docker (basic)  
+- Git, Maven, Postman, IntelliJ
 
 ---
 
-# 3) EMOJI FUN THEME — `README.md`
-```md
-<!-- EMOJI FUN THEME -->
-# 🎉 Hey! I'm Shubham (ShubhamKRay) 👋
+## How to run (dev)
+1. Clone repo  
+2. Setup DB & `application.properties`  
+3. Start backend: `mvn spring-boot:run`  
+4. Start frontend: `npm start` (if applicable)
 
-## 🚀 What I do
-- I'm a **Java Full-Stack Developer** (Java + Spring Boot + React)  
-- I love building little apps that solve real problems 🛠️  
-- Currently working on: **Voting Survey System** 🗳️
+---
 
-## 🧰 Tools & Tech
-- Java ☕, Spring Boot 🌱, Hibernate 🔁  
-- React ⚛️, HTML 🖼️, CSS 🎨, JS 🧠  
-- MySQL 🗄️, PostgreSQL 🧾  
-- Git 🧭, Postman 🧪, Maven 🔩
+## Let's connect
+- LinkedIn: YOUR_LINKEDIN_URL  
+- Email: your-email@example.com
 
-## 🔭 Projects
-**🗳️ Voting Survey System** — create polls, vote, view results, admin controls.
-
-## ✨ Fun facts
-- I code with coffee ☕  
-- I learn every day 📚  
-- I enjoy problem solving 🧩
-
-## 📫 Contact
-- Email: your-email@example.com  
-- LinkedIn: YOUR_LINKEDIN_URL
-
-> ⭐ Star my repos if you like them!
+> I keep my repos well-documented. Check READMEs for project details.
