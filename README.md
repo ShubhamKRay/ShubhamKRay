@@ -42,7 +42,7 @@
 
 🎯 **2025 Goal:** Build 3 production-ready projects and contribute to open-source
 
-📧 **Email:** your-email@example.com
+📧 **Email:** shubhairmen@gmail.com
 
 📍 **Location:** India 🇮🇳
 
@@ -242,9 +242,9 @@
 
 #### 📌 Short-Term Goals (Q1-Q2)
 
-🚀 **Complete 3 Production-Level Full-Stack Projects**  
+🚀 **Complete 1 Production-Level Full-Stack Projects**  
 📚 **Master Spring Boot & Microservices Architecture**  
-💡 **Solve 200+ DSA Problems on LeetCode/GFG**  
+💡 **Solve 100+ DSA Problems on LeetCode/GFG**  
 🌟 **Contribute to 2-3 Open Source Java Projects**  
 📖 **Learn Docker & Containerization Basics**
 
@@ -309,16 +309,16 @@ graph LR
 
 <div align="center">
 
-<a href="https://leetcode.com/your-username" target="_blank">
+<a href="https://leetcode.com/[Shubham-kumar-ray]" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
 </a>
-<a href="https://www.hackerrank.com/your-username" target="_blank">
+<a href="https://www.hackerrank.com/ShubhamRayy" target="_blank">
   <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/your-username" target="_blank">
+<a href="https://auth.geeksforgeeks.org/user/imsbmn" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </a>
-<a href="https://www.codechef.com/users/your-username" target="_blank">
+<a href="https://www.codechef.com/users/shubham_rayy" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </a>
 
@@ -341,19 +341,19 @@ graph LR
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-profile" target="_blank">
+<a href="https://linkedin.com/in/shubhamkumarray/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://twitter.com/your-handle" target="_blank">
+<a href="https://x.com/shubhrayy" target="_blank">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:your-shubhairmen@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://yourportfolio.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.instagram.com/your-handle" target="_blank">
+</a> -->
+<!-- <a href="https://www.instagram.com/your-handle" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
 </a>
 
