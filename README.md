@@ -284,10 +284,10 @@ graph LR
     E --> F[📝 AWS & Cloud]
     
     style A fill:#00AF01
-    style B fill:#00FAF01
-    style C fill:#FFA500
-    style D fill:#FFA500
-    style E fill:#FF0000
+    style B fill:#00BF01
+    style C fill:#CFA500
+    style D fill:#DFA500
+    style E fill:#EF0000
     style F fill:#FF0000
 ```
 
