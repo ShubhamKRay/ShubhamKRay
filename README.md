@@ -59,15 +59,15 @@
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Backend & Frameworks
+### 🔧 Backend Technologies
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -80,13 +80,11 @@
 
 ### 🎨 Frontend Technologies
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-5A29E4?style=for-the-badge&logo=ajax&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### 🗄️ Databases
 
@@ -100,7 +98,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
@@ -166,26 +164,25 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKRay&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-<br>
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKRay&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ShubhamKRay&limit=5&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Contribution Stats" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ShubhamKRay&theme=algolia&hide_border=false" alt="GitHub Streak" />
+</p>
 
-</div>
+<br>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKRay&layout=compact&theme=algolia&hide_border=false" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShubhamKRay&theme=algolia&hide_border=false" alt="WakaTime Stats" />
+</p>
 
 <br>
 
 <div align="center">
   
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKRay&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKRay&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ffffff&area=true&hide_border=false&theme=github-dark" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -217,7 +214,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShubhamKRay&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ShubhamKRay&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -227,36 +224,44 @@
 
 <br>
 
-## 💼 2025 Goals & Learning Path
+## 💼 2025 Goals & Learning Roadmap
 
 <div align="center">
 
-<table>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+### 🎯 My Goals for 2025
+
+</div>
+
+<br>
+
+<table align="center">
 <tr>
-<td>
+<td align="center" width="50%">
 
-### 🎯 Short-Term Goals
+#### 📌 Short-Term Goals (Q1-Q2)
 
-- 🚀 Complete **3 Production-Level Projects**
-- 📚 Master **Spring Boot & Microservices**
-- 💡 Solve **200+ DSA Problems**
-- 🌟 Contribute to **2 Open Source Projects**
+🚀 **Complete 3 Production-Level Full-Stack Projects**  
+📚 **Master Spring Boot & Microservices Architecture**  
+💡 **Solve 200+ DSA Problems on LeetCode/GFG**  
+🌟 **Contribute to 2-3 Open Source Java Projects**  
+📖 **Learn Docker & Containerization Basics**
 
 </td>
-<td>
+<td align="center" width="50%">
 
-### 🔮 Long-Term Vision
+#### 🎓 Long-Term Goals (Q3-Q4)
 
-- ☁️ Learn **AWS & Cloud Deployment**
-- 🏗️ Master **System Design & Architecture**
-- 🔐 Deep dive into **Security & Performance**
-- 🎓 Become **Senior Java Developer**
+☁️ **Master AWS & Deploy Production Apps**  
+🏗️ **Deep Dive into System Design & Scalability**  
+🔐 **Learn Spring Security & JWT Authentication**  
+📊 **Build a Personal Portfolio Website**  
+🎯 **Become Senior Java Full Stack Developer**
 
 </td>
 </tr>
 </table>
-
-</div>
 
 <br>
 
@@ -264,15 +269,33 @@
 
 ### 📖 Current Learning Track
 
-```
-✅ Core Java → Spring Boot
-🔄 React → Frontend Mastery
-🔄 Microservices → System Design
-📝 Docker → Kubernetes
-📝 AWS → Cloud Deployment
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+</div>
+
+<br>
+
+```mermaid
+graph LR
+    A[✅ Core Java] --> B[✅ Spring Boot]
+    B --> C[🔄 React & Frontend]
+    C --> D[🔄 Microservices]
+    D --> E[📝 System Design]
+    E --> F[📝 AWS & Cloud]
+    
+    style A fill:#00FF00
+    style B fill:#00FF00
+    style C fill:#FFA500
+    style D fill:#FFA500
+    style E fill:#FF0000
+    style F fill:#FF0000
 ```
 
-**Focus Areas:** Clean Code | Design Patterns | RESTful APIs | Database Optimization | React Integration
+<br>
+
+<div align="center">
+
+**🎯 Focus Areas:** Clean Code Architecture | RESTful API Design | Database Optimization | Frontend-Backend Integration | Problem Solving
 
 </div>
 
@@ -282,7 +305,7 @@
 
 <br>
 
-## 💻 Coding Profiles
+## 💻 Coding Profiles & Practice
 
 <div align="center">
 
@@ -299,6 +322,13 @@
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </a>
 
+<br>
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+**💪 Actively solving DSA problems and improving problem-solving skills!**
+
 </div>
 
 <br>
@@ -307,7 +337,7 @@
 
 <br>
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
