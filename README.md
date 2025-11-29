@@ -10,43 +10,70 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br>
 
-## 🧑‍💻 **About Me**
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding">
+
+</td>
+<td width="50%">
 
 <br>
 
 🎯 **Role:** Java Full Stack Developer  
+
 📍 **Location:** India 🇮🇳  
+
 🔭 **Currently Working On:** Voting Survey System  
+
 🌱 **Learning:** Spring Boot, Microservices, React & System Design  
+
 💡 **Focus:** Building scalable & production-ready applications  
+
 🎨 **Passion:** Solving real-world problems through clean code  
+
 💬 **Ask Me About:** Java, Spring Boot, APIs, SQL, DSA  
+
 📫 **Email:** your-email@example.com  
+
 ⚡ **Fun Fact:** I debug with coffee ☕ and patience 😄  
+
 🚀 **Motto:** Code → Learn → Build → Repeat 🔄
 
-<br clear="both">
+<br>
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br>
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
-### **Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Languages & Frontend
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### **Backend Technologies**
+### Backend Technologies
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
@@ -56,14 +83,10 @@
   <img src="https://img.shields.io/badge/Microservices-%23FF6C37.svg?style=for-the-badge&logo=microservices&logoColor=white" />
 </p>
 
-### **Frontend Technologies**
-<p>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-### **Databases**
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -71,7 +94,7 @@
   <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-### **Tools & IDEs**
+### Tools & IDEs
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -82,26 +105,82 @@
   <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
 </p>
 
+</td>
+</tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br>
 
-## 🚀 **Featured Projects**
+## 📊 GitHub Statistics
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### 🗳️ **[Voting Survey System](https://github.com/ShubhamKRay)**
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats">
 
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKRay&theme=radical&hide_border=true" width="100%" alt="GitHub Streak">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKRay&layout=compact&theme=radical&hide_border=true&langs_count=10" width="100%" alt="Top Languages">
+
+</td>
+<td width="50%">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=ShubhamKRay&theme=radical&hide_border=true&combine_all_yearly_contributions=true" width="100%" alt="Contributor Stats">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKRay&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/api/?username=ShubhamKRay&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🚀 Featured Project
+
+<table>
+<tr>
+<td width="50%">
+
+### 🗳️ Voting Survey System
+
+<p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 **A full-stack application for creating and managing surveys with real-time voting**
 
-</div>
-
-#### **Key Features:**
+#### Key Features:
 - ✅ Create & manage multiple surveys
 - ✅ Real-time vote counting & analytics
 - ✅ Prevent duplicate voting mechanism
@@ -109,41 +188,71 @@
 - ✅ Clean REST API architecture
 - ✅ Responsive UI design
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</td>
+<td width="50%">
 
----
+<br><br>
 
-## 📊 **GitHub Statistics**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKRay&theme=radical&hide_border=true" />
-</p>
+<br><br>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKRay&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ShubhamKRay&theme=radical&hide_border=true&combine_all_yearly_contributions=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKRay&theme=react-dark&hide_border=true&area=true" />
-</p>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br>
 
-## 🏆 **GitHub Achievements**
+## 💼 2025 Goals & Roadmap
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamKRay&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 📌 Current Goals
+
+| Goal | Status |
+|------|--------|
+| 🎯 Build 3 Production Projects | 🔄 In Progress |
+| 🚀 Master Spring Boot | 🔄 Learning |
+| 📚 Learn System Design | 🔄 Learning |
+| 🌟 Contribute to Open Source | 📝 Planning |
+| ☁️ Deploy on AWS/Cloud | 📝 Planning |
+| 💡 Solve 200+ DSA Problems | 🔄 In Progress |
+
+</td>
+<td width="50%">
+
+### 📈 Learning Path
+
+```
+✅ Core Java → Spring Boot
+🔄 Microservices → System Design
+📝 Docker → Kubernetes
+📝 AWS → Cloud Deployment
+🔄 DSA → Problem Solving
+```
+
+<br>
+
+**Focus Areas:**
+- Clean Code Architecture
+- Scalable Backend Systems
+- RESTful API Design
+- Database Optimization
+- Frontend Integration
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br>
 
-## 💻 **Coding Profiles**
+## 💻 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/your-username" target="_blank">
@@ -162,9 +271,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br>
 
-## 🌐 **Connect With Me**
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile" target="_blank">
@@ -186,66 +295,47 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br>
 
-## 💼 **2025 Goals & Roadmap**
+## 📈 Detailed Contribution Stats
 
-<div align="center">
+<table>
+<tr>
+<td width="33%">
 
-| Goal | Status |
-|------|--------|
-| 🎯 Build 3 Production-Level Full-Stack Projects | 🔄 In Progress |
-| 🚀 Master Spring Boot & Microservices | 🔄 Learning |
-| 📚 Learn System Design & Architecture | 🔄 Learning |
-| 🌟 Contribute to Open Source | 📝 Planning |
-| ☁️ Deploy Applications on AWS/Cloud | 📝 Planning |
-| 💡 Solve 200+ DSA Problems | 🔄 In Progress |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamKRay&theme=radical" width="100%" alt="Repos per Language">
 
-</div>
+</td>
+<td width="33%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamKRay&theme=radical" width="100%" alt="Most Commit Language">
 
----
+</td>
+<td width="33%">
 
-## 💡 **Daily Dev Quote**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhamKRay&theme=radical&utcOffset=5.5" width="100%" alt="Productive Time">
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 🐍 **Contribution Graph**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShubhamKRay/ShubhamKRay/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShubhamKRay/ShubhamKRay/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShubhamKRay/ShubhamKRay/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamKRay&theme=radical" width="100%" alt="Profile Details">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br>
 
-## 📈 **Detailed Contribution Stats**
+## 💡 Daily Dev Quote
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamKRay&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamKRay&theme=radical" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamKRay&theme=radical" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhamKRay&theme=radical&utcOffset=5.5" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=70&animation=twinkling"/>
@@ -263,6 +353,8 @@
 
 <div align="center">
   
-  **⭐️ From [ShubhamKRay](https://github.com/ShubhamKRay) with 💙**
+  **⭐️ From ShubhamKRay with 💙**
+  
+  **If you like my work, consider giving a ⭐ to my repositories!**
   
 </div>
