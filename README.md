@@ -275,7 +275,7 @@
 
 <br>
 
-`````mermaid
+`````````````mermaid
 graph LR
     A[✅ Core Java] --> B[✅ Spring Boot]
     B --> C[🔄 React & Frontend]
@@ -283,13 +283,13 @@ graph LR
     D --> E[📝 System Design]
     E --> F[📝 AWS & Cloud]
     
-    style A fill:#10AF05
-    style B fill:#20BF05
-    style C fill:#30FA505
-    style D fill:#40FA505
-    style E fill:#50F0005
-    style F fill:#60F0005
-`````
+    style A fill:#1AF05
+    style B fill:#PBF05
+    style C fill:#MFA505
+    style D fill:#LFA505
+    style E fill:#JF0005
+    style F fill:#HF0005
+```````````````
 
 <br>
 
