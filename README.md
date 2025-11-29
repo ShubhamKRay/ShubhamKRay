@@ -16,7 +16,7 @@
 const shubham = {
     role: "Java Full Stack Developer",
     location: "India 🇮🇳",
-    currentFocus: ["Spring Boot", "React", "Microservices", "System Design"],
+    currentFocus: ["Spring Boot", "React", "Microservices", "System Design","Data Structure & Algoruthm],
     learning: "Building scalable & production-ready applications",
     passion: "Solving real-world problems through code",
     motto: "Code → Learn → Build → Repeat 🔄"
@@ -30,7 +30,7 @@ const shubham = {
 - 💡 Focused on writing **clean, scalable & maintainable code**
 - 🎯 Goal: Become a **strong backend developer** with system design expertise
 - 💬 Ask me about **Java, Spring Boot, APIs, SQL, DSA**
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: *shubhairmen@gmail.com**
 - ⚡ Fun fact: **I debug with coffee ☕ and patience 😄**
 
 ---
@@ -42,6 +42,8 @@ const shubham = {
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-%23F7DF1E.svg?style=for-the-badge&logo=c++&logoColor=Orange" />
+    <img src="https://img.shields.io/badge/C-%23F7DF1E.svg?style=for-the-badge&logo=c&logoColor=brown" />
 </p>
 
 ### **Backend**
@@ -73,8 +75,10 @@ const shubham = {
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-%23000000.svg?style=for-the-badge&logo=eclipse.exe&logoColor=purple" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-%23000000.svg?style=for-the-badge&logo=vscode&logoColor=yellow" />
 </p>
 
 ---
