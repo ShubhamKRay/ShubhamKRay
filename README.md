@@ -1,360 +1,111 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Shubham+Kumar+Ray;Java+Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%92%BB;Always+Learning+%7C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+
 </div>
+🛠 Tech Stack & Superpowers
+🔥 Backend Mastery
+<p align="center"> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white"/> </p>
+🎨 Frontend Artistry
+<p align="center"> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> </p>
+🗄️ Database Wizardry
+<p align="center"> <img src="https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> </p>
+⚡ DevOps & Tools
+<p align="center"> <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> </p>
+🌟 Featured Projects
+🗳️ Voting Survey System - Full Stack Excellence
+Tech: Java • Spring Boot • React • MySQL • REST APIs
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShubhamKRay&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ShubhamKRay?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/ShubhamKRay?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
-</p>
+yaml
+Features:
+  ✅ Create Dynamic Surveys
+  ✅ Real-time Voting System  
+  ✅ Admin Dashboard
+  ✅ Secure Authentication
+  ✅ Responsive UI
+  ✅ RESTful APIs
+  ✅ Database Design
+🔗 Live Demo: [Coming Soon]
+📁 Repository: github.com/ShubhamKRay/VotingSurvey
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+📊 GitHub Analytics
+<div align="center"><!-- STATS CARDS --><img height="165" src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKRay&theme=radical&hide_border=true" /><!-- TOP LANGUAGES --><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKRay&layout=compact&theme=radical&hide_border=true&langs_count=8" /><!-- ACTIVITY GRAPH --><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKRay&theme=react-dark&bg_color=20232a&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/></div>
+🎯 Current Focus & Goals
+🚀 2024 Roadmap
+Master System Design 🏗️
 
-<br>
+Build 3 Production-Ready Projects 💼
 
-## 👨‍💻 About Me
+Learn Microservices Architecture 🔗
 
-<table>
-<tr>
-<td width="50%">
+Contribute to Open Source 🌍
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding">
+Master Docker & Kubernetes 🐳
 
-</td>
-<td width="50%">
+Get AWS Certified ☁️
 
-<br>
+📚 Learning Journey
 
-🎯 **Role:** Java Full Stack Developer  
 
-📍 **Location:** India 🇮🇳  
 
-🔭 **Currently Working On:** Voting Survey System  
 
-🌱 **Learning:** Spring Boot, Microservices, React & System Design  
 
-💡 **Focus:** Building scalable & production-ready applications  
 
-🎨 **Passion:** Solving real-world problems through clean code  
 
-💬 **Ask Me About:** Java, Spring Boot, APIs, SQL, DSA  
+💡 Coding Philosophy
+🎯 "Write code that not only works but tells a story"
 
-📫 **Email:** your-email@example.com  
+🔧 "Clean code > Clever code"
 
-⚡ **Fun Fact:** I debug with coffee ☕ and patience 😄  
+🌱 "Every day is a learning opportunity"
 
-🚀 **Motto:** Code → Learn → Build → Repeat 🔄
+🤝 "Collaboration amplifies innovation"
 
-<br>
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Languages & Frontend
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-### Backend Technologies
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-%23FF6C37.svg?style=for-the-badge&logo=microservices&logoColor=white" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### Tools & IDEs
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📊 GitHub Statistics
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats">
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKRay&theme=radical&hide_border=true" width="100%" alt="GitHub Streak">
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKRay&layout=compact&theme=radical&hide_border=true&langs_count=10" width="100%" alt="Top Languages">
-
-</td>
-<td width="50%">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ShubhamKRay&theme=radical&hide_border=true&combine_all_yearly_contributions=true" width="100%" alt="Contributor Stats">
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKRay&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=ShubhamKRay&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies">
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🚀 Featured Project
-
-<table>
-<tr>
-<td width="50%">
-
-### 🗳️ Voting Survey System
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
-
-**A full-stack application for creating and managing surveys with real-time voting**
-
-#### Key Features:
-- ✅ Create & manage multiple surveys
-- ✅ Real-time vote counting & analytics
-- ✅ Prevent duplicate voting mechanism
-- ✅ Admin dashboard for survey management
-- ✅ Clean REST API architecture
-- ✅ Responsive UI design
-
-</td>
-<td width="50%">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation">
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 💼 2025 Goals & Roadmap
-
-<table>
-<tr>
-<td width="50%">
-
-### 📌 Current Goals
-
-| Goal | Status |
-|------|--------|
-| 🎯 Build 3 Production Projects | 🔄 In Progress |
-| 🚀 Master Spring Boot | 🔄 Learning |
-| 📚 Learn System Design | 🔄 Learning |
-| 🌟 Contribute to Open Source | 📝 Planning |
-| ☁️ Deploy on AWS/Cloud | 📝 Planning |
-| 💡 Solve 200+ DSA Problems | 🔄 In Progress |
-
-</td>
-<td width="50%">
-
-### 📈 Learning Path
-
-```
-✅ Core Java → Spring Boot
-🔄 Microservices → System Design
-📝 Docker → Kubernetes
-📝 AWS → Cloud Deployment
-🔄 DSA → Problem Solving
-```
-
-<br>
-
-**Focus Areas:**
-- Clean Code Architecture
-- Scalable Backend Systems
-- RESTful API Design
-- Database Optimization
-- Frontend Integration
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📈 Detailed Contribution Stats
-
-<table>
-<tr>
-<td width="33%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamKRay&theme=radical" width="100%" alt="Repos per Language">
-
-</td>
-<td width="33%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamKRay&theme=radical" width="100%" alt="Most Commit Language">
-
-</td>
-<td width="33%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhamKRay&theme=radical&utcOffset=5.5" width="100%" alt="Productive Time">
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamKRay&theme=radical" width="100%" alt="Profile Details">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 💡 Daily Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
+📫 Let's Connect & Collaborate
+<div align="center"><!-- SOCIAL LINKS WITH ICONS --><p align="center"> <a href="https://www.linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://twitter.com/your-profile"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> </a> <a href="https://your-portfolio.com"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/> </a> </p></div>
+🎉 Fun Facts & Beyond Code
+yaml
+BeyondProgramming:
+  - 🎵 Music: "Code with Lo-fi beats"
+  - ☕ Fuel: "Coffee & Curiosity"
+  - 📖 Reading: "Clean Code & System Design"
+  - 🎮 Gaming: "Problem-solving games"
+  - 🌍 Dream: "Build solutions that impact millions"
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=70&animation=twinkling"/>
-</div>
+⚡ Daily Motivation
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing;Every+Line+of+Code+is+a+Step+Forward;Your+Next+Project+Could+Change+the+World" /><!-- FOOTER WITH ANIMATION -->
+https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time!+%F0%9F%9A%80;Open+to+collaborations+and+opportunities!+%F0%9F%A4%9D;Let's+connect+and+build+something+amazing!+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+⭐ If you like what you see, don't forget to star my repositories! ⭐
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
-</p>
+</div> ```
+Step 5: Commit Changes
+Commit message dalo: "Add professional profile README"
 
-<div align="center">
-  
-  **⭐️ From ShubhamKRay with 💙**
-  
-  **If you like my work, consider giving a ⭐ to my repositories!**
-  
-</div>
+Commit directly to the main branch select karo
+
+Commit changes button click karo
+
+✅ METHOD 2: Agar Pehle Se Repository Hai
+Agar aapke paas pehle se ShubhamKRay repository hai to:
+
+Us repository me jao
+
+README.md file open karo
+
+Edit button click karo
+
+Purra existing content delete karo
+
+Naya code paste karo
+
+Commit changes karo
+
+🎯 Customize Karne ke Liye:
+Code me yeh changes karna mat bhoolo:
+
+markdown
+REPLACE:
+- "your-profile" → apna actual LinkedIn URL
+- "your.email@example.com" → apna real email
+- "your-portfolio.com" → apna portfolio (agar hai)
+- Twitter link agar nahi hai to delete kar do
