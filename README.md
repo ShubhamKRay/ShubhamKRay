@@ -1,59 +1,72 @@
-<!-- GOLDEN ROYAL THEME -->
-<h1 align="center">✨ Shubham Kumar Ray ✨</h1>
-<h3 align="center" style="color:#b38800">Java Full-Stack Developer • Spring Boot • React</h3>
+<!-- MINIMAL ULTRA-CLEAN THEME -->
+# Hi, I'm Shubham 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShubhamKRay&label=Profile+Views&color=gold&style=flat" alt="profile views" />
-</p>
+**Java Full-Stack Developer**  
+Focused on building maintainable backend services and clean frontend interfaces.
 
 ---
 
-## 👑 About Me
-I'm **Shubham Kumar Ray**, a Java Full-Stack developer building robust and elegant backend systems and beautiful frontends. I love clean architecture, scalable services, and end-to-end apps.
-
-- 🔭 Currently: Building **Voting Survey System** (Java + Spring Boot + MySQL + React)
-- 🌱 Learning: System Design, Microservices, Elasticsearch
-- 💬 Ask me about: Java, REST APIs, SQL, Spring Boot
-- 📫 Email: your-email@example.com
+## About
+- 🔭 Working on: **Voting Survey System**  
+- 🌱 Learning: Spring Boot, React, System Design  
+- 📫 Email: your-email@example.com  
 - 🔗 LinkedIn: YOUR_LINKEDIN_URL
 
 ---
 
-## 🛠️ Tech Stack (Royal Edition)
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## Skills
+- **Languages:** Java, JavaScript  
+- **Backend:** Spring Boot, JPA, REST APIs  
+- **Frontend:** HTML, CSS, React (learning)  
+- **Database:** MySQL, PostgreSQL  
+- **Tools:** Git, Postman, Maven
 
 ---
 
-## ✨ Featured Project — Voting Survey System
-**Tech:** Java, Spring Boot, MySQL, React  
-**Highlights:**
-- Create polls, vote flow, show dynamic results
-- Layered architecture (Controller → Service → Repository)
-- Secure endpoints (prepare for JWT)
-- Clean UI & responsive design
-
-**Run Locally**
-1. `git clone https://github.com/ShubhamKRay/VotingSurvey.git`
-2. Configure `application.properties` for DB
-3. `mvn spring-boot:run` && open frontend at `http://localhost:3000`
+## Projects
+**Voting Survey System** — Full-stack survey app (CRUD polls, voting, results). Clean architecture and RESTful APIs.
 
 ---
 
-## 📜 Future Plans
-- Add JWT Auth & Role Based Access  
-- Convert to microservices & add message queue  
-- Deploy on cloud (AWS / Railway / Render)
+## Quick Start (local)
+```bash
+# backend
+cd backend
+mvn spring-boot:run
+
+# frontend (if React)
+cd frontend
+npm install
+npm start
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/golden.png" alt="divider" width="70%"/>
-</p>
+# 3) EMOJI FUN THEME — `README.md`
+```md
+<!-- EMOJI FUN THEME -->
+# 🎉 Hey! I'm Shubham (ShubhamKRay) 👋
 
-> ✨ If you like this profile, feel free to star the repo and reach out.  
+## 🚀 What I do
+- I'm a **Java Full-Stack Developer** (Java + Spring Boot + React)  
+- I love building little apps that solve real problems 🛠️  
+- Currently working on: **Voting Survey System** 🗳️
+
+## 🧰 Tools & Tech
+- Java ☕, Spring Boot 🌱, Hibernate 🔁  
+- React ⚛️, HTML 🖼️, CSS 🎨, JS 🧠  
+- MySQL 🗄️, PostgreSQL 🧾  
+- Git 🧭, Postman 🧪, Maven 🔩
+
+## 🔭 Projects
+**🗳️ Voting Survey System** — create polls, vote, view results, admin controls.
+
+## ✨ Fun facts
+- I code with coffee ☕  
+- I learn every day 📚  
+- I enjoy problem solving 🧩
+
+## 📫 Contact
+- Email: your-email@example.com  
+- LinkedIn: YOUR_LINKEDIN_URL
+
+> ⭐ Star my repos if you like them!
