@@ -224,7 +224,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
 </div>
-<br>
+<!-- <br> -->
 <table align="center">
 <tr>
 <td align="center" width="50%">
@@ -247,23 +247,13 @@
 📖 Learn Docker & Containerization Basics
 </td>
 <td align="center" width="50%">
-<!-- 🎓 Long-Term Goals 🎓<br><br>
+🎓 Long-Term Goals 🎓<br><br>
 ☁️ Master AWS & Deploy Production Apps<br>
 🏗️ Deep Dive into System Design & Scalability<br>
 🔐 Learn Spring Security & JWT Authentication<br>
 📊 Build a Personal Portfolio Website<br>
-🎯 Become Senior Java Full Stack Developer -->
-  🏆 Long-Term Goals
-
-☁️ Master AWS & Deploy Production-Ready Applications
-
-🏗️ Deep Dive Into System Design & Scalability
-
-🔐 Learn Spring Security & JWT Authentication
-
-📊 Build a Modern Personal Portfolio Website
-
-🎯 Become a Senior Java Full-Stack Developer
+🎯 Become Senior Java Full Stack Developer
+  
 </td>
 </tr>
 </table>
