@@ -228,7 +228,7 @@
 <table align="center">
 <tr>
 <td align="center" width="50%">
-📌 Short-Term Goals 📌<br><br>
+📌 Short-Term Goals 📌<br>
 🚀 Complete 3 Production-Level Full-Stack Projects<br>
 📚 Master Spring Boot & Microservices architecture<br>
 💡 Solve 200+ DSA Problems on LeetCode/GFG<br>
