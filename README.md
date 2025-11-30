@@ -215,13 +215,13 @@
 
 
 <br> 
-
-<!-- <p align="center">
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=ShubhamKRay&theme=algolia&hide_border=false" alt="GitHub Streak" />
-</p> -->
+</p> 
 
-<!-- <br>
+ <br>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKRay&layout=compact&theme=algolia&hide_border=false" alt="Top Languages" />
@@ -240,7 +240,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>  -->
+<br> 
 
 ## 🐍 Contribution Snake
 
