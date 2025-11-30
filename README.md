@@ -228,7 +228,7 @@
 <table align="center">
 <tr>
 <td align="center" width="50%">
-📌 Short-Term Goals (Q1-Q2)<br><br>
+📌 Short-Term Goals 📌<br><br>
 🚀 Complete 3 Production-Level Full-Stack Projects<br>
 📚 Master Spring Boot & Microservices architecture<br>
 💡 Solve 200+ DSA Problems on LeetCode/GFG<br>
@@ -236,7 +236,7 @@
 📖 Learn Docker & Containerization Basics
 </td>
 <td align="center" width="50%">
-🎓 Long-Term Goals (Q3-Q4)<br><br>
+🎓 Long-Term Goals 🎓<br><br>
 ☁️ Master AWS & Deploy Production Apps<br>
 🏗️ Deep Dive into System Design & Scalability<br>
 🔐 Learn Spring Security & JWT Authentication<br>
@@ -246,8 +246,11 @@
 </tr>
 </table>
 <br>
-<div align="center">
 
+
+
+
+<div align="center">
 
 ### 📖 Current Learning Track
 
