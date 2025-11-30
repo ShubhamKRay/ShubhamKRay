@@ -229,8 +229,8 @@
 <tr>
 <td align="center" width="50%">
 📌 Short-Term Goals (Q1-Q2)<br>
-🚀 Complete 3 Production-Level Full-Stack Projects<br>
-📚 Master Spring Boot & Microservices Architecture<br>
+🚀 Complete 3 Production-Level Projects<br>
+📚 Master Spring Boot & Microservices<br>
 💡 Solve 200+ DSA Problems on LeetCode/GFG<br>
 🌟 Contribute to 2-3 Open Source Java Projects<br>
 📖 Learn Docker & Containerization Basics
