@@ -219,12 +219,10 @@
 
 <br>
 
-## 💼 2025 Goals & Learning Roadmap
-
+💼 2025 Goals & Learning Roadmap
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
+🎯 My Goals for 2025
 </div>
 <br>
 <table align="center">
@@ -250,40 +248,8 @@
 <br>
 <div align="center">
 
-<br>
-
-<div align="center">
-
 ### 📖 Current Learning Track
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-📚 My Learning Roadmap
-</div>
-<br>
-<div align="center">
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   ✅ Core Java  ────────────────────────────────────────> COMPLETED      ║
-║                                                                           ║
-║   ✅ Spring Boot  ─────────────────────────────────────> COMPLETED      ║
-║                                                                           ║
-║   🔄 React & Frontend  ────────────────────────────────> IN PROGRESS    ║
-║                                                                           ║
-║   🔄 Microservices  ───────────────────────────────────> IN PROGRESS    ║
-║                                                                           ║
-║   📝 System Design  ───────────────────────────────────> PLANNED        ║
-║                                                                           ║
-║   📝 AWS & Cloud  ─────────────────────────────────────> PLANNED        ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-🎯 Focus Areas: Clean Code | RESTful APIs | Database Design | Full Stack Integration | Problem Solving
-</div>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 
@@ -299,12 +265,12 @@ graph LR
     D --> E[📝 System Design]
     E --> F[📝 AWS & Cloud]
     
-    style A fill:#FFAF05
-    style B fill:#FFBF05
-    style C fill:#FFAE05
-    style D fill:#FFAG05
-    style E fill:#FF0C05
-    style F fill:#FF0P05
+   style A fill:#2ECC71,stroke:#27AE60,color:#fff
+    style B fill:#3498DB,stroke:#2980B9,color:#fff
+    style C fill:#F39C12,stroke:#E67E22,color:#fff
+    style D fill:#E74C3C,stroke:#C0392B,color:#fff
+    style E fill:#9B59B6,stroke:#8E44AD,color:#fff
+    style F fill:#1ABC9C,stroke:#16A085,color:#fff
 ```
 
 <br>
