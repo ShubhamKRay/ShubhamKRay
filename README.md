@@ -228,13 +228,8 @@
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<!-- 📌 Short-Term Goals 📌<br>
-🚀 Complete 3 Production-Level Full-Stack Projects<br>
-📚 Master Spring Boot & Microservices architecture<br>
-💡 Solve 200+ DSA Problems on LeetCode/GFG<br>
-🌟 Contribute to 2-3 Open Source Java Projects<br>
-📖 Learn Docker & Containerization Basics -->
-  🎯 Short-Term Goals<br><br>
+
+  🎯 Short-Term Goals  🎯<br><br>
 
 🚀 Complete 3 Production-Level Full-Stack Projects
 
@@ -247,13 +242,7 @@
 📖 Learn Docker & Containerization Basics
 </td>
 <td align="center" width="50%">
-<!-- 🎓 Long-Term Goals 🎓<br><br>
-☁️ Master AWS & Deploy Production Apps<br>
-🏗️ Deep Dive into System Design & Scalability<br>
-🔐 Learn Spring Security & JWT Authentication<br>
-📊 Build a Personal Portfolio Website<br>
-🎯 Become Senior Java Full Stack Developer -->
-🏆 Long-Term Goals<br>
+🏆 Long-Term Goals 🏆<br>
 
 ☁️ Master AWS & Deploy Production-Ready Applications
 
@@ -318,7 +307,6 @@ graph LR
 
 <div align="center">
 
-<!-- <a href="https://leetcode.com/u/Shubham-kumar-ray/000000https://leetcode.com/[Shubham-kumar-ray]" target="_blank"> -->
 <a href="https://leetcode.com/u/Shubham-kumar-ray" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
 </a>
