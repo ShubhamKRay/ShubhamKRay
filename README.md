@@ -225,38 +225,30 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
-### 🎯 My Goals for 2025
-
 </div>
-
 <br>
-
 <table align="center">
 <tr>
 <td align="center" width="50%">
-
-#### 📌 Short-Term Goals (Q1-Q2)
-
-🚀 **Complete 1 Production-Level Full-Stack Projects**  
-📚 **Master Spring Boot & Microservices Architecture**  
-💡 **Solve 100+ DSA Problems on LeetCode/GFG**  
-🌟 **Contribute to 2-3 Open Source Java Projects**  
-📖 **Learn Docker & Containerization Basics**
-
+📌 Short-Term Goals (Q1-Q2)
+🚀 Complete 3 Production-Level Full-Stack Projects
+📚 Master Spring Boot & Microservices Architecture
+💡 Solve 200+ DSA Problems on LeetCode/GFG
+🌟 Contribute to 2-3 Open Source Java Projects
+📖 Learn Docker & Containerization Basics
 </td>
 <td align="center" width="50%">
-
-#### 🎓 Long-Term Goals (Q3-Q4)
-
-☁️ **Master AWS & Deploy Production Apps**  
-🏗️ **Deep Dive into System Design & Scalability**  
-🔐 **Learn Spring Security & JWT Authentication**  
-📊 **Build a Personal Portfolio Website**  
-🎯 **Become Senior Java Full Stack Developer**
-
+🎓 Long-Term Goals (Q3-Q4)
+☁️ Master AWS & Deploy Production Apps
+🏗️ Deep Dive into System Design & Scalability
+🔐 Learn Spring Security & JWT Authentication
+📊 Build a Personal Portfolio Website
+🎯 Become Senior Java Full Stack Developer
 </td>
 </tr>
 </table>
+<br>
+<div align="center">
 
 <br>
 
@@ -265,6 +257,35 @@
 ### 📖 Current Learning Track
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+📚 My Learning Roadmap
+</div>
+<br>
+<div align="center">
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   ✅ Core Java  ────────────────────────────────────────> COMPLETED      ║
+║                                                                           ║
+║   ✅ Spring Boot  ─────────────────────────────────────> COMPLETED      ║
+║                                                                           ║
+║   🔄 React & Frontend  ────────────────────────────────> IN PROGRESS    ║
+║                                                                           ║
+║   🔄 Microservices  ───────────────────────────────────> IN PROGRESS    ║
+║                                                                           ║
+║   📝 System Design  ───────────────────────────────────> PLANNED        ║
+║                                                                           ║
+║   📝 AWS & Cloud  ─────────────────────────────────────> PLANNED        ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+🎯 Focus Areas: Clean Code | RESTful APIs | Database Design | Full Stack Integration | Problem Solving
+</div>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 
 </div>
 
@@ -298,7 +319,7 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+<br> -->
 
 ## 💻 Coding Profiles & Practice
 
