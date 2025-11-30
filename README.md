@@ -234,8 +234,7 @@
 💡 Solve 200+ DSA Problems on LeetCode/GFG<br>
 🌟 Contribute to 2-3 Open Source Java Projects<br>
 📖 Learn Docker & Containerization Basics -->
-  🎯 Short-Term Goals<br>
-  
+  🎯 Short-Term Goals<br><br>
 
 🚀 Complete 3 Production-Level Full-Stack Projects
 
