@@ -163,59 +163,7 @@
 <br>
 
 ## 📊 GitHub Statistics
- <br>
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="100%" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ShubhamKRay&theme=react&border_radius=10&border=7F3FBF&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" width="100%" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-</div>
-<br>
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKRay&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="100%" alt="Top Languages"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamKRay&theme=github_dark" width="100%" alt="Repos Per Language"/>
-</td>
-</tr>
-</table>
-</div>
-<br>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKRay&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
-</div>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
- <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-   
- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKRay&theme=radical&hide_border=true" /> 
-</p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKRay&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ShubhamKRay&theme=radical&hide_border=true&combine_all_yearly_contributions=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKRay&theme=react-dark&hide_border=true&area=true" />
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<br> 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
  <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamKRay&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=ShubhamKRay&theme=algolia&hide_border=false" alt="GitHub Streak" />
