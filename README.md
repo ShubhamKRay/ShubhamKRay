@@ -228,20 +228,42 @@
 <table align="center">
 <tr>
 <td align="center" width="50%">
-📌 Short-Term Goals 📌<br>
+<!-- 📌 Short-Term Goals 📌<br>
 🚀 Complete 3 Production-Level Full-Stack Projects<br>
 📚 Master Spring Boot & Microservices architecture<br>
 💡 Solve 200+ DSA Problems on LeetCode/GFG<br>
 🌟 Contribute to 2-3 Open Source Java Projects<br>
+📖 Learn Docker & Containerization Basics -->
+  🎯 Short-Term Goals
+
+🚀 Complete 3 Production-Level Full-Stack Projects
+
+📚 Master Spring Boot & Microservices Architecture
+
+💡 Solve 200+ DSA Problems (LeetCode / GFG)
+
+🌟 Contribute to 2–3 Open-Source Java Projects
+
 📖 Learn Docker & Containerization Basics
 </td>
 <td align="center" width="50%">
-🎓 Long-Term Goals 🎓<br><br>
+<!-- 🎓 Long-Term Goals 🎓<br><br>
 ☁️ Master AWS & Deploy Production Apps<br>
 🏗️ Deep Dive into System Design & Scalability<br>
 🔐 Learn Spring Security & JWT Authentication<br>
 📊 Build a Personal Portfolio Website<br>
-🎯 Become Senior Java Full Stack Developer
+🎯 Become Senior Java Full Stack Developer -->
+  🏆 Long-Term Goals
+
+☁️ Master AWS & Deploy Production-Ready Applications
+
+🏗️ Deep Dive Into System Design & Scalability
+
+🔐 Learn Spring Security & JWT Authentication
+
+📊 Build a Modern Personal Portfolio Website
+
+🎯 Become a Senior Java Full-Stack Developer
 </td>
 </tr>
 </table>
