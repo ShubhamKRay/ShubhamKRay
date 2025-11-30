@@ -229,6 +229,7 @@
 <tr>
 <td align="center" width="50%">
 📌 Short-Term Goals (Q1-Q2) <br>
+  ----------------------------------------
 🚀 Complete 3 Production-Level Full-Stack Projects <br>
 📚 Master Spring Boot & Microservices Architecture<br>
 💡 Solve 200+ DSA Problems on LeetCode/GFG<br>
@@ -237,6 +238,7 @@
 </td>
 <td align="center" width="50%">
 🎓 Long-Term Goals (Q3-Q4)<br>
+  --------------------------------------
 ☁️ Master AWS & Deploy Production Apps<br>
 🏗️ Deep Dive into System Design & Scalability<br>
 🔐 Learn Spring Security & JWT Authentication<br>
