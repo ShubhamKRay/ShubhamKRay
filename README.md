@@ -40,7 +40,7 @@
 
 🌱 Learning **Microservices Architecture** and exploring **Cloud Technologies**
 
-🎯 **2026 Goal:** Build more than 10 production-ready projects and contribute to open-source
+🎯 **2026 Goal:** Build more than 5 production-ready projects and contribute to open-source
 
 📧 **Email:** shubhairmen@gmail.com
 
@@ -219,7 +219,7 @@
 
 <br>
 
-💼 2025 Goals & Learning Roadmap
+💼 2026 Goals & Learning Roadmap
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
