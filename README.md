@@ -40,7 +40,7 @@
 
 🌱 Learning **Microservices Architecture** and exploring **Cloud Technologies**
 
-🎯 **2025 Goal:** Build 3 production-ready projects and contribute to open-source
+🎯 **2026 Goal:** Build more than 10 production-ready projects and contribute to open-source
 
 📧 **Email:** shubhairmen@gmail.com
 
@@ -231,13 +231,13 @@
 
   🎯 Short-Term Goals  🎯<br><br>
 
-🚀 Complete 3 Production-Level Full-Stack Projects
+🚀 Complete 5+ Production-Level Full-Stack Projects
 
 📚 Master Spring Boot & Microservices Architecture
 
-💡 Solve 200+ DSA Problems (LeetCode / GFG)
+💡 Solve 500+ DSA Problems (LeetCode / GFG)
 
-🌟 Contribute to 2–3 Open-Source Java Projects
+🌟 Contribute to 5–7 Open-Source Java Projects
 
 📖 Learn Docker & Containerization Basics
 </td>
